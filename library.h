@@ -1,0 +1,6 @@
+#ifndef MOBILEGRAPH_LIBRARY_H
+#define MOBILEGRAPH_LIBRARY_H
+
+void hello();
+
+#endif //MOBILEGRAPH_LIBRARY_H
